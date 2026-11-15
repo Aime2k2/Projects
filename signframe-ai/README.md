@@ -212,7 +212,7 @@ SignFrame AI is an experimental prototype, not a dependable sign language transl
 ## Credits and project provenance
 
 - **Portfolio maintenance and release preparation:** Jean Aimé Iraguha ([Aime2k2](https://github.com/Aime2k2)); finalized **15 November 2026**.
-- **Original project author and CNN implementation:** [Tayyaba Ilyas](https://github.com/tayyabastack), [upstream SignFrame AI](https://github.com/tayyabastack/signframe-ai).
+
 
 The supplied project originally identified Tayyaba Ilyas as its author.
 This portfolio package retains that credit; publishing it does not
