@@ -1,7 +1,7 @@
 
 # SignFrame AI
 
-**Portfolio package finalized:** 15 November 2026. **GitHub portfolio maintainer:** Jean Aimé Iraguha ([Aime2k2](https://github.com/Aime2k2)). **Original project author:** Tayyaba Ilyas ([original source](https://github.com/tayyabastack/signframe-ai)).
+**Portfolio package finalized:** 15 November 2026. **GitHub portfolio maintainer:** Jean Aimé Iraguha ([Aime2k2](https://github.com/Aime2k2)). 
 
 ### Real-Time ASL Fingerspelling Recognition with Deep Learning
 
